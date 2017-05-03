@@ -23,6 +23,8 @@ bookmarks
   - [慕课网](http://www.imooc.com/)
   - [POSTCSS深入学习](http://www.w3cplus.com/blog/tags/517.html)
   - [ECMAScript 6](http://es6.ruanyifeng.com/)
+  - [CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
+  - [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
   
-##### 乱七八糟
+#### 乱七八糟
 * [Mac取档](http://unarchiver.c3.cx/)
